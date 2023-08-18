@@ -1,0 +1,44 @@
+.data{
+    display: flex;
+    
+}
+input{
+    width: 160px;
+    height: 20px;
+    border-radius: 25px;
+    border: 1px solid black;
+}
+.radio{
+    margin: 0px;
+}
+.container{
+    
+    
+    background-color: rgb(131, 146, 146);
+    height: 250px;
+    /* display: flex; */
+    /* justify-content: center;
+    justify-items: center; */
+    margin: 5px;
+    padding: 20px;
+    margin:  0 auto;
+
+}
+button{
+    height: 20px;
+    border-radius: 25px;
+    border: 1px solid black;
+    text-align: center;
+    width: 100px;
+    margin-top: 15px;
+    margin-left: 120px;
+}
+subject{
+    height: 20px;
+    border-radius: 25px;
+    border: 1px solid black;
+    text-align: center;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
